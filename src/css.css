@@ -1,0 +1,7 @@
+.foa {
+    background: #CF0000;
+    background: repeating-linear-gradient(to right, #CF0000 0%, #9900FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+}
